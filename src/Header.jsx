@@ -3,12 +3,12 @@ function Header(){
     <div>
     <header>
         <h1>My Favorite Cities</h1>
+        <h1>My Favorite Cities</h1>
+
+        <h1>My Favorite Cities</h1>
+
     </header>
 
-
-
-
-    
     </div>
     );
 }
